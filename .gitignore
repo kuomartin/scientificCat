@@ -1,3 +1,5 @@
 datasets/
 runs/
 yolo*
+/cats_data.yaml
+.ipynb_checkpoints/
